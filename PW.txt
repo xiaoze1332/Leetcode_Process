@@ -1,0 +1,24 @@
+pic
+	glpat-k_TPg2fVpfP6y4u_9Wh8
+
+RA
+	glpat-9srSFgXciu9ZinZFWLsF
+	
+FP
+	glpat-aP7PHy1rJzwc2C7n5Dd2
+	
+CA
+	glpat-Uyzigdehg7cAz2UBG2tr
+
+PING
+	glpat-YoapNwQ28vtNNN61ko4K
+	
+Leetcode
+	glpat-xZEztjc7k2CRvo3z1NjH
+
+ESG
+	glpat-zALsJSYkLTUwAUU_Ds5G
+	
+	
+	https://www2.census.gov/programs-surveys/cps/datasets/
+	https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.2020.html
